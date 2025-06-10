@@ -33,7 +33,8 @@
 simple live-bootable Archlinux iso,
 
 # ALPHA 0.2 WILL OPEN INTO LY, A GREETER, THE DEFAULT LOGIN CREDENTIALS ARE:
-root
+root,
+
 cracOS
 # IT WILL OPEN INTO i3-wm CHOOSE THE OPTION TO CREATE THE CONFIG FILE 
 (usually by pressing enter) 
@@ -41,11 +42,14 @@ cracOS
 
 some i3-wm commands:
 
+
 super+enter:
 open terminal (kitty)
 
+
 super+shift+q:
 close window
+
 
 super+d:
 application bar
